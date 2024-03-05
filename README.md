@@ -8,4 +8,5 @@ Business Understanding ---> Data Understanding ---> Data Preparation ---> Explor
 
 We decided to look at how to optimize the success of a YouTube channel – initiatives to increase views, subscribers etc. as well as YouTube's algorithm. 
 We will be using [Google's YouTube API](https://developers.google.com/youtube) to access the data of a chosen channel. <br>
+
 The project is in progress but the Jupyter Notebook attached contains the API data I have accessed thus far. <br>
